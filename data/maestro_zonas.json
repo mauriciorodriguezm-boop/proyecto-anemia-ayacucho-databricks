@@ -1,0 +1,92 @@
+[
+    {
+        "id_zona": 1,
+        "zona": "Zona Norte",
+        "abreviatura": "N",
+        "tipo_zona": "Cardinal",
+        "orientacion": "Norte",
+        "descripcion": "Clasificación territorial correspondiente al sector norte del ámbito analizado.",
+        "orden_visualizacion": 1,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 2,
+        "zona": "Zona Sur",
+        "abreviatura": "S",
+        "tipo_zona": "Cardinal",
+        "orientacion": "Sur",
+        "descripcion": "Clasificación territorial correspondiente al sector sur del ámbito analizado.",
+        "orden_visualizacion": 2,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 3,
+        "zona": "Zona Este",
+        "abreviatura": "E",
+        "tipo_zona": "Cardinal",
+        "orientacion": "Este",
+        "descripcion": "Clasificación territorial correspondiente al sector este del ámbito analizado.",
+        "orden_visualizacion": 3,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 4,
+        "zona": "Zona Oeste",
+        "abreviatura": "O",
+        "tipo_zona": "Cardinal",
+        "orientacion": "Oeste",
+        "descripcion": "Clasificación territorial correspondiente al sector oeste del ámbito analizado.",
+        "orden_visualizacion": 4,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 5,
+        "zona": "Zona Centro",
+        "abreviatura": "C",
+        "tipo_zona": "Central",
+        "orientacion": "Centro",
+        "descripcion": "Clasificación territorial correspondiente al sector central del ámbito analizado.",
+        "orden_visualizacion": 5,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 6,
+        "zona": "Zona Noreste",
+        "abreviatura": "NE",
+        "tipo_zona": "Intercardinal",
+        "orientacion": "Noreste",
+        "descripcion": "Clasificación territorial correspondiente al sector noreste del ámbito analizado.",
+        "orden_visualizacion": 6,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 7,
+        "zona": "Zona Noroeste",
+        "abreviatura": "NO",
+        "tipo_zona": "Intercardinal",
+        "orientacion": "Noroeste",
+        "descripcion": "Clasificación territorial correspondiente al sector noroeste del ámbito analizado.",
+        "orden_visualizacion": 7,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 8,
+        "zona": "Zona Sureste",
+        "abreviatura": "SE",
+        "tipo_zona": "Intercardinal",
+        "orientacion": "Sureste",
+        "descripcion": "Clasificación territorial correspondiente al sector sureste del ámbito analizado.",
+        "orden_visualizacion": 8,
+        "usar_en_dashboard": true
+    },
+    {
+        "id_zona": 9,
+        "zona": "Zona Suroeste",
+        "abreviatura": "SO",
+        "tipo_zona": "Intercardinal",
+        "orientacion": "Suroeste",
+        "descripcion": "Clasificación territorial correspondiente al sector suroeste del ámbito analizado.",
+        "orden_visualizacion": 9,
+        "usar_en_dashboard": true
+    }
+]
