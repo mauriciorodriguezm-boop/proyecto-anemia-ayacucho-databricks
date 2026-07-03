@@ -1,0 +1,21 @@
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos locales
+.env
+.venv/
+venv/
+
+# Jupyter / Databricks
+.ipynb_checkpoints/
+
+# Archivos comprimidos
+*.zip
+*.rar
